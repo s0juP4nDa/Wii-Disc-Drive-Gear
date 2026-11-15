@@ -9,8 +9,6 @@ Use these files:
 
 Check out the details in [Uploaded final/proper worm gear (mirrored)](https://github.com/s0juP4nDa/Wii-Disc-Drive-Gear/pull/3).
 
-Check out the details in [Uploaded final/proper worm gear (mirrored)](https://github.com/s0juP4nDa/Wii-Disc-Drive-Gear/pull/3).
-
 ---
 
 ## Resin 3D Printers
