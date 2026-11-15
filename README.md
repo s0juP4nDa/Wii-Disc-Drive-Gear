@@ -1,6 +1,18 @@
 # Wii-Disc-Drive-Gear
 
-This file contains a 3D model of a helical gear found inside of a Nintendo Wii DVD drive. The file type is CTB and has been sliced with ChituBox.  
+## FDM 3D Printers
+
+Use these files:
+- ‎[wii_worm_gear_MIRRORED_bore_1.95mm.3mf](wii_worm_gear_MIRRORED_bore_1.95mm.3mf)
+‎- [wii_worm_gear_MIRRORED_bore_1.95mm.stl](wii_worm_gear_MIRRORED_bore_1.95mm.stl‎)
+
+Check out the details in [Uploaded final/proper worm gear (mirrored)](https://github.com/s0juP4nDa/Wii-Disc-Drive-Gear/pull/3).
+
+---
+
+## Resin 3D Printers
+
+This **CTB** file contains a 3D model of a helical gear found inside of a Nintendo Wii DVD drive. The file type is CTB and has been sliced with ChituBox.  
 
 This is a helical gear that is compatible with the Nintendo Wii's DVD disc drive. 
 Please note that this gear may not work with your drive and further modification to your drive may be necessary. 
