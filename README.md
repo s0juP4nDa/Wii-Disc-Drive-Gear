@@ -4,8 +4,8 @@
 
 Use these files:
 
-* ‎[wii_worm_gear_MIRRORED_bore_1.95mm.3mf](wii_worm_gear_MIRRORED_bore_1.95mm.3mf)
-* [wii_worm_gear_MIRRORED_bore_1.95mm.stl](wii_worm_gear_MIRRORED_bore_1.95mm.stl)
+* ‎[wii_worm_gear_MIRRORED_bore_1.90mm.3mf](wii_worm_gear_MIRRORED_bore_1.90mm.3mf)
+* [wii_worm_gear_MIRRORED_bore_1.90mm.stl](wii_worm_gear_MIRRORED_bore_1.90mm.stl)
 
 Check out the details in [Uploaded final/proper worm gear (mirrored)](https://github.com/s0juP4nDa/Wii-Disc-Drive-Gear/pull/3).
 
